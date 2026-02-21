@@ -28,26 +28,26 @@ Language Core → Data Model → Internals → Concurrency → Performance → P
 
 advanced-python-engineering-and-systems/
 │
-├──Ch01 — Foundations
-├──Ch02 — Core Language
-├──Ch03 — Operators
-├──Ch04 — Control Flow
-├──Ch05 — Data Structures
-├──Ch06 — Functional Programming
-├──Ch07 — Modules & Packaging
-├──Ch08 — Object-Oriented Design
-├──Ch09 — Data Model & Metaprogramming
-├──Ch10 — Error Handling & Logging
-├──Ch11 — Python Internals
-├──Ch12 — Concurrency & Parallelism
-├──Ch13 — Performance Engineering
-├──Ch14 — Advanced Type System
-├──Ch15 — Testing & Quality
-├──Ch16 — Production Engineering
-├──Ch17 — Backend & System Design
-├──Ch18 — Security
-├──Ch19 — AI & Scientific Computing
-├──Ch20 — Interview & Edge Case Mastery
+├──Ch01 Foundations
+├──Ch02 Core Language
+├──Ch03 Operators
+├──Ch04 Control Flow
+├──Ch05 Data Structures
+├──Ch06 Functional Programming
+├──Ch07 Modules & Packaging
+├──Ch08 Object-Oriented Design
+├──Ch09 Data Model & Metaprogramming
+├──Ch10 Error Handling & Logging
+├──Ch11 Python Internals
+├──Ch12 Concurrency & Parallelism
+├──Ch13 Performance Engineering
+├──Ch14 Advanced Type System
+├──Ch15 Testing & Quality
+├──Ch16 Production Engineering
+├──Ch17 Backend & System Design
+├──Ch18 Security
+├──Ch19 AI & Scientific Computing
+├──Ch20 Interview & Edge Case Mastery
 │
 ├── experiments/
 ├── benchmarks/
