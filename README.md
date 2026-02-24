@@ -194,19 +194,3 @@ This repository prioritizes:
 ## 📄 License
 
 MIT License
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
